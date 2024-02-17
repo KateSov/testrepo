@@ -1,5 +1,5 @@
 #Display the output.
-# Configuring branding 
+# Configuring branding for customers
 print("New Python Files and Images")
 
 
